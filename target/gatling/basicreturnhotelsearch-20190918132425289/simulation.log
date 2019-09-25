@@ -1,0 +1,4 @@
+RUN	sessionPackage.BasicReturnHotelSearch	basicreturnhotelsearch	1568813065289	 	3.0.3
+USER	Get return Hotels	1	START	1568813067209	1568813067209
+REQUEST	1		Get return hotel	1568813067295	1568813069726	OK	 
+USER	Get return Hotels	1	END	1568813067209	1568813070289

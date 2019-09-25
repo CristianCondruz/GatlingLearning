@@ -1,0 +1,4 @@
+RUN	basicPackage.BasicCheckScript	basiccheckscript	1568740515929	 	3.0.3
+USER	basic get scenario	1	START	1568740517823	1568740517823
+REQUEST	1		basic get request	1568740517924	1568740519033	KO	regex(.*states.*).find.exists, found nothing
+USER	basic get scenario	1	END	1568740517823	1568740519916

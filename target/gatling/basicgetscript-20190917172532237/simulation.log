@@ -1,0 +1,4 @@
+RUN	basicPackage.BasicGetScript	basicgetscript	1568741132237	 	3.0.3
+USER	basic get scenario	1	START	1568741133618	1568741133618
+REQUEST	1		basic get request	1568741133676	1568741134192	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+USER	basic get scenario	1	END	1568741133618	1568741134289

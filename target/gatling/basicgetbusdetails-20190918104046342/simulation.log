@@ -1,0 +1,4 @@
+RUN	sessionPackage.BasicGetBusDetails	basicgetbusdetails	1568803246342	 	3.0.3
+USER	Get Bus Details	1	START	1568803248664	1568803248664
+REQUEST	1		Get bus request	1568803248852	1568803249919	KO	jsonPath($.data..skey).find.exists, found nothing
+USER	Get Bus Details	1	END	1568803248664	1568803250495

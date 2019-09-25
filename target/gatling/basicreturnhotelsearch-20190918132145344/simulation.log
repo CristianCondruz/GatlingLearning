@@ -1,0 +1,4 @@
+RUN	sessionPackage.BasicReturnHotelSearch	basicreturnhotelsearch	1568812905344	 	3.0.3
+USER	Get return Hotels	1	START	1568812908043	1568812908043
+REQUEST	1		Get return hotel	1568812908148	1568812908166	KO	j.n.UnknownHostException: developer.goibibo.comapi: Name or service not known
+USER	Get return Hotels	1	END	1568812908043	1568812908399

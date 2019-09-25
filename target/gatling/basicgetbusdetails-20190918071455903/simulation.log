@@ -1,0 +1,4 @@
+RUN	sessionPackage.BasicGetBusDetails	basicgetbusdetails	1568790895903	 	3.0.3
+USER	Get Bus Details	1	START	1568790899311	1568790899311
+REQUEST	1		Get bus request	1568790899381	1568790899415	KO	j.n.UnknownHostException: developer.goibibo.comapi: Name or service not known
+USER	Get Bus Details	1	END	1568790899311	1568790899497

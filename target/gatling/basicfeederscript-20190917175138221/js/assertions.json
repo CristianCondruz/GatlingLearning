@@ -1,0 +1,10 @@
+{
+  "simulation": "basicPackage.BasicFeederScript",
+  "simulationId": "basicfeederscript",
+  "start": 1568742698221,
+  "description": "",
+  "scenarios": ["basic get scenario"],
+  "assertions": [
+
+  ]
+}

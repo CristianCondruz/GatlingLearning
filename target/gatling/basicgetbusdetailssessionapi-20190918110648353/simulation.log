@@ -1,0 +1,4 @@
+RUN	sessionPackage.BasicGetBusDetailsSessionAPI	basicgetbusdetailssessionapi	1568804808353	 	3.0.3
+USER	Get Bus Details	1	START	1568804813147	1568804813147
+REQUEST	1		Get bus request	1568804813329	1568804815793	OK	 
+USER	Get Bus Details	1	END	1568804813147	1568804816615

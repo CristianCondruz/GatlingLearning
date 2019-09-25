@@ -1,0 +1,10 @@
+{
+  "simulation": "sessionPackage.BasicReturnHotelSearch",
+  "simulationId": "basicreturnhotelsearch",
+  "start": 1568813065289,
+  "description": "",
+  "scenarios": ["Get return Hotels"],
+  "assertions": [
+
+  ]
+}

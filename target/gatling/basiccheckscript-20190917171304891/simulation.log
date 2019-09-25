@@ -1,0 +1,5 @@
+RUN	basicPackage.BasicCheckScript	basiccheckscript	1568740384891	 	3.0.3
+USER	basic get scenario	1	START	1568740386383	1568740386383
+REQUEST	1		basic get request	1568740386433	1568740386580	OK	 
+REQUEST	1		basic get request Redirect 1	1568740386654	1568740387096	KO	status.find.is(200), but actually found 404
+USER	basic get scenario	1	END	1568740386383	1568740387231

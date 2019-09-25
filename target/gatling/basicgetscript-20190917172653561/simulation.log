@@ -1,0 +1,4 @@
+RUN	basicPackage.BasicGetScript	basicgetscript	1568741213561	 	3.0.3
+USER	basic get scenario	1	START	1568741215050	1568741215050
+REQUEST	1		basic get request	1568741215123	1568741216008	OK	 
+USER	basic get scenario	1	END	1568741215050	1568741216148

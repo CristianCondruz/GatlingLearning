@@ -1,0 +1,4 @@
+RUN	basicPackage.BasicCheckScript	basiccheckscript	1568740458726	 	3.0.3
+USER	basic get scenario	1	START	1568740460116	1568740460116
+REQUEST	1		basic get request	1568740460177	1568740461073	OK	 
+USER	basic get scenario	1	END	1568740460116	1568740461205
